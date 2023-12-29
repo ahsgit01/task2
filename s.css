@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.n{
+    width:auto;
+    text-align: center;
+    background-color: black;
+    color:green;
+    height: 200px;
+    padding: 20px;
+}
+.ul{
+    padding: 80px;
+   
+
+}
+.a
+{
+    background-color: red;
+    padding: 8px 24px;
+    color: aqua;
+    border: 2px color solid black;
+    background-color: rgb(40,50,60);
+    border-radius: 40px;
+    margin-left:10px;
+    transform: translate(20%,20%);
+}
+.foot{
+    background-color: cadetblue;
+    width:auto ;
+    height: 200px;
+}
+.last
+{
+    background-color: darkgray;
+    width: auto;
+    height: 255px;
+}

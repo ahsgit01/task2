@@ -1,0 +1,81 @@
+.n{
+    background-color: brown;
+    color: burlywood;
+    justify-content: space-between;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    float:left;
+    width:1000px;
+    height:148px;
+    align-items: center;
+    display: flex;
+    padding:20px;
+
+
+}
+img{
+    float:right;
+    background-color: brown;
+    padding:20px;
+    height: 148px;
+    display:flex;
+    
+}
+.about{
+    background-color: black;
+    color: aliceblue;
+    float: center;
+    padding:10px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:200px;
+    
+
+}
+#topleft{
+    background-color: blanchedalmond;
+    color: black;
+    float:left;
+    justify-content:space-between;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: left;
+    width:650px;
+    padding:50px ;
+    height:200px;
+}
+#topright{
+    background-color: blanchedalmond;
+    color: black;
+    float:right;
+    justify-content:space-between;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: right;
+    width:650px;
+    padding:50px ;
+    height: 200px;
+}
+.education{
+    background-color: black;
+    color: aliceblue;
+    width:150px;
+    padding:10px;
+}
+.skills{
+    background-color: black;
+    color: aliceblue;
+    float: center;
+    padding:10px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:100px;
+
+}
+.projects{
+    background-color: black;
+    color: aliceblue;
+    width:150px;
+    padding:10px;
+    height:auto;
+}
+
+
